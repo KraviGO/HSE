@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+
+AiSD/cmake-build-debug
+AiSD/CMakeLists.txt
