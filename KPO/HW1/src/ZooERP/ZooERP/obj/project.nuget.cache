@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BukruRJpYMQ=",
+  "success": true,
+  "projectFilePath": "/Users/igorkravchenko/HSE/HSE_CS/ZooERP/ZooERP/ZooERP.csproj",
+  "expectedPackageFiles": [
+    "/Users/igorkravchenko/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "/Users/igorkravchenko/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}
