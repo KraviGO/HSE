@@ -1,0 +1,134 @@
+{
+  "UserEmail": "igor@edu.ru",
+  "UserName": "Igor",
+  "Accounts": [
+    {
+      "Name": "основной",
+      "Initial": 17030000.0
+    },
+    {
+      "Name": "Цель: на айфон",
+      "Initial": 170000.0
+    }
+  ],
+  "Categories": [
+    {
+      "Name": "бизнес",
+      "IsIncome": true
+    }
+  ],
+  "Operations": [
+    {
+      "Account": "основной",
+      "Category": "бизнес",
+      "IsIncome": true,
+      "Amount": 4000000.0,
+      "Date": "2025-11-29",
+      "Desc": null
+    },
+    {
+      "Account": "основной",
+      "Category": "бизнес",
+      "IsIncome": true,
+      "Amount": 1000000.0,
+      "Date": "2025-11-18",
+      "Desc": null
+    },
+    {
+      "Account": "основной",
+      "Category": "бизнес",
+      "IsIncome": true,
+      "Amount": 1000000.0,
+      "Date": "2025-11-15",
+      "Desc": null
+    },
+    {
+      "Account": "основной",
+      "Category": "бизнес",
+      "IsIncome": true,
+      "Amount": 1000000.0,
+      "Date": "2025-11-12",
+      "Desc": null
+    },
+    {
+      "Account": "основной",
+      "Category": "бизнес",
+      "IsIncome": true,
+      "Amount": 10000000.0,
+      "Date": "2025-11-10",
+      "Desc": null
+    },
+    {
+      "Account": "Цель: на айфон",
+      "Category": null,
+      "IsIncome": true,
+      "Amount": 100000.0,
+      "Date": "2025-11-10",
+      "Desc": "Пополнение цели: на айфон"
+    },
+    {
+      "Account": "основной",
+      "Category": null,
+      "IsIncome": false,
+      "Amount": 100000.0,
+      "Date": "2025-11-10",
+      "Desc": "Пополнение цели: на айфон"
+    },
+    {
+      "Account": "основной",
+      "Category": null,
+      "IsIncome": false,
+      "Amount": 50000.0,
+      "Date": "2025-11-10",
+      "Desc": "Пополнение цели: на айфон"
+    },
+    {
+      "Account": "Цель: на айфон",
+      "Category": null,
+      "IsIncome": true,
+      "Amount": 50000.0,
+      "Date": "2025-11-10",
+      "Desc": "Пополнение цели: на айфон"
+    },
+    {
+      "Account": "Цель: на айфон",
+      "Category": null,
+      "IsIncome": true,
+      "Amount": 10000.0,
+      "Date": "2025-11-10",
+      "Desc": "Пополнение цели: на айфон"
+    },
+    {
+      "Account": "основной",
+      "Category": null,
+      "IsIncome": false,
+      "Amount": 10000.0,
+      "Date": "2025-11-10",
+      "Desc": "Пополнение цели: на айфон"
+    },
+    {
+      "Account": "основной",
+      "Category": "бизнес",
+      "IsIncome": true,
+      "Amount": 200000.0,
+      "Date": "2025-11-10",
+      "Desc": null
+    },
+    {
+      "Account": "основной",
+      "Category": null,
+      "IsIncome": false,
+      "Amount": 10000.0,
+      "Date": "2025-11-10",
+      "Desc": "Перевод на Цель: на айфон"
+    },
+    {
+      "Account": "Цель: на айфон",
+      "Category": null,
+      "IsIncome": true,
+      "Amount": 10000.0,
+      "Date": "2025-11-10",
+      "Desc": "Перевод с основной"
+    }
+  ]
+}

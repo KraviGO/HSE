@@ -1,0 +1,15 @@
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/bin/Debug/net8.0/Finance.Application.deps.json
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/bin/Debug/net8.0/Finance.Application.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/bin/Debug/net8.0/Finance.Application.pdb
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/bin/Debug/net8.0/Finance.Domain.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/bin/Debug/net8.0/Finance.Domain.pdb
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.csproj.AssemblyReference.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.AssemblyInfoInputs.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.AssemblyInfo.cs
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.csproj.CoreCompileInputs.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance..0798594C.Up2Date
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/refint/Finance.Application.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/Finance.Application.pdb
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Application/obj/Debug/net8.0/ref/Finance.Application.dll

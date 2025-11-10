@@ -1,0 +1,17 @@
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/bin/Debug/net8.0/Finance.Infrastructure.deps.json
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/bin/Debug/net8.0/Finance.Infrastructure.runtimeconfig.json
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/bin/Debug/net8.0/Finance.Infrastructure.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/bin/Debug/net8.0/Finance.Infrastructure.pdb
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/bin/Debug/net8.0/Finance.Domain.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/bin/Debug/net8.0/Finance.Domain.pdb
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.csproj.AssemblyReference.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.AssemblyInfoInputs.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.AssemblyInfo.cs
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance..7CAD6358.Up2Date
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/refint/Finance.Infrastructure.dll
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.pdb
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/Finance.Infrastructure.genruntimeconfig.cache
+/Users/igorkravchenko/HSE/HSE_CS/FinanceTracker/Finance.Infrastructure/obj/Debug/net8.0/ref/Finance.Infrastructure.dll
