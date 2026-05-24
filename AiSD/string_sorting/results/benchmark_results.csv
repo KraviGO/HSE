@@ -1,0 +1,961 @@
+Algorithm,ArrayType,Size,TimeMs,Comparisons
+Std QuickSort,Random,100,0.0027916,969
+Std MergeSort,Random,100,0.0030082,604
+Custom QuickSort,Random,100,0.0050332,1087
+Custom MergeSort,Random,100,0.003425,613
+Ternary QuickSort,Random,100,0.0022502,584
+String MergeSort,Random,100,0.0053166,520
+MSD Radix Sort,Random,100,0.0148836,0
+MSD Radix Sort + Fallback,Random,100,0.0016166,62
+Std QuickSort,Random,200,0.0047666,1978
+Std MergeSort,Random,200,0.0050164,1554
+Custom QuickSort,Random,200,0.0090834,2701
+Custom MergeSort,Random,200,0.0058834,1512
+Ternary QuickSort,Random,200,0.004475,1311
+String MergeSort,Random,200,0.0104164,1206
+MSD Radix Sort,Random,200,0.0336668,0
+MSD Radix Sort + Fallback,Random,200,0.0030836,223
+Std QuickSort,Random,300,0.0087748,3381
+Std MergeSort,Random,300,0.0113668,2520
+Custom QuickSort,Random,300,0.0172166,4657
+Custom MergeSort,Random,300,0.013617,2533
+Ternary QuickSort,Random,300,0.0086834,2691
+String MergeSort,Random,300,0.0197166,1914
+MSD Radix Sort,Random,300,0.0490916,0
+MSD Radix Sort + Fallback,Random,300,0.0042332,432
+Std QuickSort,Random,400,0.0129584,4691
+Std MergeSort,Random,400,0.0128834,3669
+Custom QuickSort,Random,400,0.0226748,6275
+Custom MergeSort,Random,400,0.0163916,3671
+Ternary QuickSort,Random,400,0.0105082,2993
+String MergeSort,Random,400,0.0250502,2708
+MSD Radix Sort,Random,400,0.0488502,0
+MSD Radix Sort + Fallback,Random,400,0.0068748,718
+Std QuickSort,Random,500,0.0166502,6445
+Std MergeSort,Random,500,0.0218166,4864
+Custom QuickSort,Random,500,0.0353,10006
+Custom MergeSort,Random,500,0.0219336,4844
+Ternary QuickSort,Random,500,0.015658,4453
+String MergeSort,Random,500,0.0343332,3481
+MSD Radix Sort,Random,500,0.0520082,0
+MSD Radix Sort + Fallback,Random,500,0.008033,973
+Std QuickSort,Random,600,0.0201914,8020
+Std MergeSort,Random,600,0.021858,6198
+Custom QuickSort,Random,600,0.0396414,11325
+Custom MergeSort,Random,600,0.027842,6152
+Ternary QuickSort,Random,600,0.01775,4990
+String MergeSort,Random,600,0.0397418,4312
+MSD Radix Sort,Random,600,0.0653,0
+MSD Radix Sort + Fallback,Random,600,0.0096586,1296
+Std QuickSort,Random,700,0.0260084,10015
+Std MergeSort,Random,700,0.0277584,7511
+Custom QuickSort,Random,700,0.0456912,13081
+Custom MergeSort,Random,700,0.0355166,7469
+Ternary QuickSort,Random,700,0.0224914,6674
+String MergeSort,Random,700,0.0498666,5199
+MSD Radix Sort,Random,700,0.0692,0
+MSD Radix Sort + Fallback,Random,700,0.0117914,1709
+Std QuickSort,Random,800,0.0302334,11559
+Std MergeSort,Random,800,0.0312752,9004
+Custom QuickSort,Random,800,0.054592,16518
+Custom MergeSort,Random,800,0.0414916,8800
+Ternary QuickSort,Random,800,0.0265248,7349
+String MergeSort,Random,800,0.0580916,6077
+MSD Radix Sort,Random,800,0.0733164,0
+MSD Radix Sort + Fallback,Random,800,0.0134754,2055
+Std QuickSort,Random,900,0.0649504,13186
+Std MergeSort,Random,900,0.0367752,10532
+Custom QuickSort,Random,900,0.076225,19236
+Custom MergeSort,Random,900,0.0510502,10179
+Ternary QuickSort,Random,900,0.0412584,8108
+String MergeSort,Random,900,0.0762582,6967
+MSD Radix Sort,Random,900,0.0874084,0
+MSD Radix Sort + Fallback,Random,900,0.0188252,2584
+Std QuickSort,Random,1000,0.045708,15169
+Std MergeSort,Random,1000,0.0417084,12000
+Custom QuickSort,Random,1000,0.07515,22641
+Custom MergeSort,Random,1000,0.058625,11578
+Ternary QuickSort,Random,1000,0.03605,10348
+String MergeSort,Random,1000,0.083592,7844
+MSD Radix Sort,Random,1000,0.0953084,0
+MSD Radix Sort + Fallback,Random,1000,0.0211002,2959
+Std QuickSort,Random,1100,0.049567,16912
+Std MergeSort,Random,1100,0.0560166,13220
+Custom QuickSort,Random,1100,0.0760668,25343
+Custom MergeSort,Random,1100,0.0638334,13042
+Ternary QuickSort,Random,1100,0.0382834,11525
+String MergeSort,Random,1100,0.090367,8772
+MSD Radix Sort,Random,1100,0.111433,0
+MSD Radix Sort + Fallback,Random,1100,0.0265416,3362
+Std QuickSort,Random,1200,0.0545666,19148
+Std MergeSort,Random,1200,0.0717084,14554
+Custom QuickSort,Random,1200,0.11,25761
+Custom MergeSort,Random,1200,0.075475,14582
+Ternary QuickSort,Random,1200,0.0586754,11538
+String MergeSort,Random,1200,0.119608,9724
+MSD Radix Sort,Random,1200,0.108983,0
+MSD Radix Sort + Fallback,Random,1200,0.0259918,3914
+Std QuickSort,Random,1300,0.0574998,20663
+Std MergeSort,Random,1300,0.0783084,16056
+Custom QuickSort,Random,1300,0.0988334,30407
+Custom MergeSort,Random,1300,0.0841834,16095
+Ternary QuickSort,Random,1300,0.0673586,14416
+String MergeSort,Random,1300,0.125558,10676
+MSD Radix Sort,Random,1300,0.12185,0
+MSD Radix Sort + Fallback,Random,1300,0.0250168,4267
+Std QuickSort,Random,1400,0.065925,22827
+Std MergeSort,Random,1400,0.0739918,17604
+Custom QuickSort,Random,1400,0.11455,32055
+Custom MergeSort,Random,1400,0.0903334,17627
+Ternary QuickSort,Random,1400,0.0521918,14247
+String MergeSort,Random,1400,0.11335,11654
+MSD Radix Sort,Random,1400,0.129059,0
+MSD Radix Sort + Fallback,Random,1400,0.0291914,4858
+Std QuickSort,Random,1500,0.06685,24667
+Std MergeSort,Random,1500,0.0821668,19104
+Custom QuickSort,Random,1500,0.109658,34961
+Custom MergeSort,Random,1500,0.0929666,19113
+Ternary QuickSort,Random,1500,0.0600666,16470
+String MergeSort,Random,1500,0.126458,12568
+MSD Radix Sort,Random,1500,0.1455,0
+MSD Radix Sort + Fallback,Random,1500,0.0358916,5362
+Std QuickSort,Random,1600,0.0876414,27537
+Std MergeSort,Random,1600,0.0892582,20699
+Custom QuickSort,Random,1600,0.119025,37170
+Custom MergeSort,Random,1600,0.167725,20736
+Ternary QuickSort,Random,1600,0.0822582,17605
+String MergeSort,Random,1600,0.14805,13625
+MSD Radix Sort,Random,1600,0.149458,0
+MSD Radix Sort + Fallback,Random,1600,0.0327166,5953
+Std QuickSort,Random,1700,0.0830998,29585
+Std MergeSort,Random,1700,0.1216,22362
+Custom QuickSort,Random,1700,0.178592,38276
+Custom MergeSort,Random,1700,0.109234,22329
+Ternary QuickSort,Random,1700,0.160475,18000
+String MergeSort,Random,1700,0.347883,14618
+MSD Radix Sort,Random,1700,0.178942,0
+MSD Radix Sort + Fallback,Random,1700,0.0392914,6429
+Std QuickSort,Random,1800,0.0976668,31210
+Std MergeSort,Random,1800,0.119492,24031
+Custom QuickSort,Random,1800,0.161558,45809
+Custom MergeSort,Random,1800,0.136483,23931
+Ternary QuickSort,Random,1800,0.0793832,21067
+String MergeSort,Random,1800,0.168567,15565
+MSD Radix Sort,Random,1800,0.185758,0
+MSD Radix Sort + Fallback,Random,1800,0.0408416,6753
+Std QuickSort,Random,1900,0.0904666,33766
+Std MergeSort,Random,1900,0.124533,25584
+Custom QuickSort,Random,1900,0.1709,44085
+Custom MergeSort,Random,1900,0.130283,25513
+Ternary QuickSort,Random,1900,0.0780332,21759
+String MergeSort,Random,1900,0.166542,16509
+MSD Radix Sort,Random,1900,0.183542,0
+MSD Radix Sort + Fallback,Random,1900,0.0425916,7392
+Std QuickSort,Random,2000,0.107292,35537
+Std MergeSort,Random,2000,0.136109,27238
+Custom QuickSort,Random,2000,0.167308,50054
+Custom MergeSort,Random,2000,0.145942,27169
+Ternary QuickSort,Random,2000,0.082475,21680
+String MergeSort,Random,2000,0.178334,17526
+MSD Radix Sort,Random,2000,0.209391,0
+MSD Radix Sort + Fallback,Random,2000,0.046092,7775
+Std QuickSort,Random,2100,0.144083,38308
+Std MergeSort,Random,2100,0.135292,29019
+Custom QuickSort,Random,2100,0.232167,54786
+Custom MergeSort,Random,2100,0.154775,28858
+Ternary QuickSort,Random,2100,0.0764916,23266
+String MergeSort,Random,2100,0.182683,18534
+MSD Radix Sort,Random,2100,0.212892,0
+MSD Radix Sort + Fallback,Random,2100,0.0596998,8314
+Std QuickSort,Random,2200,0.11905,39865
+Std MergeSort,Random,2200,0.127767,30793
+Custom QuickSort,Random,2200,0.19345,54346
+Custom MergeSort,Random,2200,0.170125,30554
+Ternary QuickSort,Random,2200,0.0931664,25419
+String MergeSort,Random,2200,0.200033,19585
+MSD Radix Sort,Random,2200,0.226117,0
+MSD Radix Sort + Fallback,Random,2200,0.0518164,9114
+Std QuickSort,Random,2300,0.12045,42061
+Std MergeSort,Random,2300,0.153291,32383
+Custom QuickSort,Random,2300,0.186583,58659
+Custom MergeSort,Random,2300,0.169283,32198
+Ternary QuickSort,Random,2300,0.106809,26910
+String MergeSort,Random,2300,0.213208,20554
+MSD Radix Sort,Random,2300,0.243642,0
+MSD Radix Sort + Fallback,Random,2300,0.0618916,9690
+Std QuickSort,Random,2400,0.164283,44611
+Std MergeSort,Random,2400,0.15325,34116
+Custom QuickSort,Random,2400,0.185984,61230
+Custom MergeSort,Random,2400,0.172458,33995
+Ternary QuickSort,Random,2400,0.123775,28989
+String MergeSort,Random,2400,0.262083,21628
+MSD Radix Sort,Random,2400,0.255658,0
+MSD Radix Sort + Fallback,Random,2400,0.0584502,10483
+Std QuickSort,Random,2500,0.132641,47374
+Std MergeSort,Random,2500,0.160042,35935
+Custom QuickSort,Random,2500,0.199092,68307
+Custom MergeSort,Random,2500,0.1946,35652
+Ternary QuickSort,Random,2500,0.132483,28563
+String MergeSort,Random,2500,0.239683,22610
+MSD Radix Sort,Random,2500,0.275283,0
+MSD Radix Sort + Fallback,Random,2500,0.0589086,11132
+Std QuickSort,Random,2600,0.14635,48838
+Std MergeSort,Random,2600,0.161767,37800
+Custom QuickSort,Random,2600,0.271958,72224
+Custom MergeSort,Random,2600,0.223142,37505
+Ternary QuickSort,Random,2600,0.116634,30188
+String MergeSort,Random,2600,0.25635,23763
+MSD Radix Sort,Random,2600,0.287825,0
+MSD Radix Sort + Fallback,Random,2600,0.0625082,11583
+Std QuickSort,Random,2700,0.184617,50837
+Std MergeSort,Random,2700,0.183183,39573
+Custom QuickSort,Random,2700,0.224392,68715
+Custom MergeSort,Random,2700,0.215433,39202
+Ternary QuickSort,Random,2700,0.139233,28614
+String MergeSort,Random,2700,0.253933,24767
+MSD Radix Sort,Random,2700,0.319908,0
+MSD Radix Sort + Fallback,Random,2700,0.0697332,12012
+Std QuickSort,Random,2800,0.149975,53321
+Std MergeSort,Random,2800,0.175284,41304
+Custom QuickSort,Random,2800,0.250067,74221
+Custom MergeSort,Random,2800,0.232983,40946
+Ternary QuickSort,Random,2800,0.137067,30066
+String MergeSort,Random,2800,0.275709,25778
+MSD Radix Sort,Random,2800,0.313266,0
+MSD Radix Sort + Fallback,Random,2800,0.0691,12484
+Std QuickSort,Random,2900,0.1569,54717
+Std MergeSort,Random,2900,0.187742,43236
+Custom QuickSort,Random,2900,0.315958,73830
+Custom MergeSort,Random,2900,0.234442,42704
+Ternary QuickSort,Random,2900,0.13745,32202
+String MergeSort,Random,2900,0.263967,26856
+MSD Radix Sort,Random,2900,0.323208,0
+MSD Radix Sort + Fallback,Random,2900,0.076175,13470
+Std QuickSort,Random,3000,0.192684,59537
+Std MergeSort,Random,3000,0.203792,44965
+Custom QuickSort,Random,3000,0.296958,84551
+Custom MergeSort,Random,3000,0.237292,44423
+Ternary QuickSort,Random,3000,0.205025,36368
+String MergeSort,Random,3000,0.316042,27861
+MSD Radix Sort,Random,3000,0.358842,0
+MSD Radix Sort + Fallback,Random,3000,0.0759918,14109
+Std QuickSort,ReverseSorted,100,0.0011918,543
+Std MergeSort,ReverseSorted,100,0.0018666,703
+Custom QuickSort,ReverseSorted,100,0.0037498,1334
+Custom MergeSort,ReverseSorted,100,0.0024834,611
+Ternary QuickSort,ReverseSorted,100,0.0020082,575
+String MergeSort,ReverseSorted,100,0.0049168,352
+MSD Radix Sort,ReverseSorted,100,0.0165336,0
+MSD Radix Sort + Fallback,ReverseSorted,100,0.0024916,349
+Std QuickSort,ReverseSorted,200,0.0015584,989
+Std MergeSort,ReverseSorted,200,0.0039668,1949
+Custom QuickSort,ReverseSorted,200,0.0079834,3068
+Custom MergeSort,ReverseSorted,200,0.0047666,1356
+Ternary QuickSort,ReverseSorted,200,0.003975,1250
+String MergeSort,ReverseSorted,200,0.0076418,728
+MSD Radix Sort,ReverseSorted,200,0.0293,0
+MSD Radix Sort + Fallback,ReverseSorted,200,0.0042834,731
+Std QuickSort,ReverseSorted,300,0.0019332,1418
+Std MergeSort,ReverseSorted,300,0.0060002,2333
+Custom QuickSort,ReverseSorted,300,0.0122248,4945
+Custom MergeSort,ReverseSorted,300,0.0080668,2087
+Ternary QuickSort,ReverseSorted,300,0.006492,2066
+String MergeSort,ReverseSorted,300,0.0118416,1079
+MSD Radix Sort,ReverseSorted,300,0.0440582,0
+MSD Radix Sort + Fallback,ReverseSorted,300,0.005925,1126
+Std QuickSort,ReverseSorted,400,0.0024834,1862
+Std MergeSort,ReverseSorted,400,0.0074332,3244
+Custom QuickSort,ReverseSorted,400,0.0158584,6854
+Custom MergeSort,ReverseSorted,400,0.0100666,2864
+Ternary QuickSort,ReverseSorted,400,0.0086,2780
+String MergeSort,ReverseSorted,400,0.0152082,1434
+MSD Radix Sort,ReverseSorted,400,0.0624332,0
+MSD Radix Sort + Fallback,ReverseSorted,400,0.0084668,1473
+Std QuickSort,ReverseSorted,500,0.0035418,2284
+Std MergeSort,ReverseSorted,500,0.009942,4282
+Custom QuickSort,ReverseSorted,500,0.0212166,8630
+Custom MergeSort,ReverseSorted,500,0.0144338,3728
+Ternary QuickSort,ReverseSorted,500,0.0110082,3571
+String MergeSort,ReverseSorted,500,0.0213748,1805
+MSD Radix Sort,ReverseSorted,500,0.0683834,0
+MSD Radix Sort + Fallback,ReverseSorted,500,0.009292,1840
+Std QuickSort,ReverseSorted,600,0.003575,2679
+Std MergeSort,ReverseSorted,600,0.0119664,5570
+Custom QuickSort,ReverseSorted,600,0.0248666,10803
+Custom MergeSort,ReverseSorted,600,0.0165168,4410
+Ternary QuickSort,ReverseSorted,600,0.012025,4413
+String MergeSort,ReverseSorted,600,0.0242336,2131
+MSD Radix Sort,ReverseSorted,600,0.0803334,0
+MSD Radix Sort + Fallback,ReverseSorted,600,0.010625,2218
+Std QuickSort,ReverseSorted,700,0.0045748,3118
+Std MergeSort,ReverseSorted,700,0.0159502,6992
+Custom QuickSort,ReverseSorted,700,0.0308086,13046
+Custom MergeSort,ReverseSorted,700,0.0205752,5272
+Ternary QuickSort,ReverseSorted,700,0.0156004,5444
+String MergeSort,ReverseSorted,700,0.030675,2533
+MSD Radix Sort,ReverseSorted,700,0.0943414,0
+MSD Radix Sort + Fallback,ReverseSorted,700,0.0141084,2612
+Std QuickSort,ReverseSorted,800,0.0061584,3561
+Std MergeSort,ReverseSorted,800,0.0172834,8449
+Custom QuickSort,ReverseSorted,800,0.0355834,14950
+Custom MergeSort,ReverseSorted,800,0.02395,6109
+Ternary QuickSort,ReverseSorted,800,0.0174666,6215
+String MergeSort,ReverseSorted,800,0.0338082,2890
+MSD Radix Sort,ReverseSorted,800,0.110508,0
+MSD Radix Sort + Fallback,ReverseSorted,800,0.0148414,3005
+Std QuickSort,ReverseSorted,900,0.0069498,3970
+Std MergeSort,ReverseSorted,900,0.0204168,10072
+Custom QuickSort,ReverseSorted,900,0.0404666,17034
+Custom MergeSort,ReverseSorted,900,0.0263748,7058
+Ternary QuickSort,ReverseSorted,900,0.0206,7097
+String MergeSort,ReverseSorted,900,0.0415334,3320
+MSD Radix Sort,ReverseSorted,900,0.118408,0
+MSD Radix Sort + Fallback,ReverseSorted,900,0.0280666,3382
+Std QuickSort,ReverseSorted,1000,0.006992,4374
+Std MergeSort,ReverseSorted,1000,0.0241336,11904
+Custom QuickSort,ReverseSorted,1000,0.0445584,19155
+Custom MergeSort,ReverseSorted,1000,0.030675,8034
+Ternary QuickSort,ReverseSorted,1000,0.0267086,8059
+String MergeSort,ReverseSorted,1000,0.0487416,3705
+MSD Radix Sort,ReverseSorted,1000,0.12825,0
+MSD Radix Sort + Fallback,ReverseSorted,1000,0.0185,3755
+Std QuickSort,ReverseSorted,1100,0.0079332,4809
+Std MergeSort,ReverseSorted,1100,0.0259912,10972
+Custom QuickSort,ReverseSorted,1100,0.0513082,21036
+Custom MergeSort,ReverseSorted,1100,0.0346168,8766
+Ternary QuickSort,ReverseSorted,1100,0.0258502,9002
+String MergeSort,ReverseSorted,1100,0.0472082,4072
+MSD Radix Sort,ReverseSorted,1100,0.137534,0
+MSD Radix Sort + Fallback,ReverseSorted,1100,0.0194082,4103
+Std QuickSort,ReverseSorted,1200,0.0082668,5242
+Std MergeSort,ReverseSorted,1200,0.027525,10430
+Custom QuickSort,ReverseSorted,1200,0.0553668,23564
+Custom MergeSort,ReverseSorted,1200,0.0358,9437
+Ternary QuickSort,ReverseSorted,1200,0.0254834,9957
+String MergeSort,ReverseSorted,1200,0.0560582,4311
+MSD Radix Sort,ReverseSorted,1200,0.167033,0
+MSD Radix Sort + Fallback,ReverseSorted,1200,0.0343162,4480
+Std QuickSort,ReverseSorted,1300,0.0149418,5626
+Std MergeSort,ReverseSorted,1300,0.0297,11455
+Custom QuickSort,ReverseSorted,1300,0.0923836,25674
+Custom MergeSort,ReverseSorted,1300,0.0401252,10285
+Ternary QuickSort,ReverseSorted,1300,0.0324082,11176
+String MergeSort,ReverseSorted,1300,0.0742666,4682
+MSD Radix Sort,ReverseSorted,1300,0.167442,0
+MSD Radix Sort + Fallback,ReverseSorted,1300,0.0260662,4836
+Std QuickSort,ReverseSorted,1400,0.0098586,6056
+Std MergeSort,ReverseSorted,1400,0.0311082,12411
+Custom QuickSort,ReverseSorted,1400,0.0678834,28029
+Custom MergeSort,ReverseSorted,1400,0.043525,11144
+Ternary QuickSort,ReverseSorted,1400,0.0339332,11983
+String MergeSort,ReverseSorted,1400,0.0645084,5039
+MSD Radix Sort,ReverseSorted,1400,0.17575,0
+MSD Radix Sort + Fallback,ReverseSorted,1400,0.0270584,5194
+Std QuickSort,ReverseSorted,1500,0.009592,6458
+Std MergeSort,ReverseSorted,1500,0.0474416,13321
+Custom QuickSort,ReverseSorted,1500,0.070792,30291
+Custom MergeSort,ReverseSorted,1500,0.0479332,12147
+Ternary QuickSort,ReverseSorted,1500,0.0342252,13115
+String MergeSort,ReverseSorted,1500,0.0677082,5484
+MSD Radix Sort,ReverseSorted,1500,0.189942,0
+MSD Radix Sort + Fallback,ReverseSorted,1500,0.0275084,5575
+Std QuickSort,ReverseSorted,1600,0.011358,6889
+Std MergeSort,ReverseSorted,1600,0.0322082,14518
+Custom QuickSort,ReverseSorted,1600,0.08215,32213
+Custom MergeSort,ReverseSorted,1600,0.0461832,13031
+Ternary QuickSort,ReverseSorted,1600,0.0355082,13927
+String MergeSort,ReverseSorted,1600,0.0688834,5883
+MSD Radix Sort,ReverseSorted,1600,0.198733,0
+MSD Radix Sort + Fallback,ReverseSorted,1600,0.0310416,5920
+Std QuickSort,ReverseSorted,1700,0.0117502,7300
+Std MergeSort,ReverseSorted,1700,0.0404918,15844
+Custom QuickSort,ReverseSorted,1700,0.0809416,34586
+Custom MergeSort,ReverseSorted,1700,0.0499834,13967
+Ternary QuickSort,ReverseSorted,1700,0.03865,14991
+String MergeSort,ReverseSorted,1700,0.0754582,6281
+MSD Radix Sort,ReverseSorted,1700,0.2019,0
+MSD Radix Sort + Fallback,ReverseSorted,1700,0.034075,6277
+Std QuickSort,ReverseSorted,1800,0.012975,7738
+Std MergeSort,ReverseSorted,1800,0.0418836,17026
+Custom QuickSort,ReverseSorted,1800,0.0892586,36862
+Custom MergeSort,ReverseSorted,1800,0.0564166,14950
+Ternary QuickSort,ReverseSorted,1800,0.042483,15867
+String MergeSort,ReverseSorted,1800,0.090675,6681
+MSD Radix Sort,ReverseSorted,1800,0.236209,0
+MSD Radix Sort + Fallback,ReverseSorted,1800,0.0309168,6651
+Std QuickSort,ReverseSorted,1900,0.0128334,8132
+Std MergeSort,ReverseSorted,1900,0.0461082,18239
+Custom QuickSort,ReverseSorted,1900,0.0934998,38965
+Custom MergeSort,ReverseSorted,1900,0.06415,15915
+Ternary QuickSort,ReverseSorted,1900,0.0472084,17018
+String MergeSort,ReverseSorted,1900,0.088975,7059
+MSD Radix Sort,ReverseSorted,1900,0.240559,0
+MSD Radix Sort + Fallback,ReverseSorted,1900,0.0357666,7024
+Std QuickSort,ReverseSorted,2000,0.0134916,8542
+Std MergeSort,ReverseSorted,2000,0.0455916,19270
+Custom QuickSort,ReverseSorted,2000,0.0995168,41627
+Custom MergeSort,ReverseSorted,2000,0.0652082,17009
+Ternary QuickSort,ReverseSorted,2000,0.063475,18202
+String MergeSort,ReverseSorted,2000,0.092692,7509
+MSD Radix Sort,ReverseSorted,2000,0.252067,0
+MSD Radix Sort + Fallback,ReverseSorted,2000,0.039825,7393
+Std QuickSort,ReverseSorted,2100,0.0160914,8963
+Std MergeSort,ReverseSorted,2100,0.051025,20579
+Custom QuickSort,ReverseSorted,2100,0.106133,43912
+Custom MergeSort,ReverseSorted,2100,0.068475,17953
+Ternary QuickSort,ReverseSorted,2100,0.0522582,19170
+String MergeSort,ReverseSorted,2100,0.0988998,7901
+MSD Radix Sort,ReverseSorted,2100,0.290284,0
+MSD Radix Sort + Fallback,ReverseSorted,2100,0.0389668,7792
+Std QuickSort,ReverseSorted,2200,0.0157498,9409
+Std MergeSort,ReverseSorted,2200,0.0531668,22105
+Custom QuickSort,ReverseSorted,2200,0.109042,45730
+Custom MergeSort,ReverseSorted,2200,0.0724584,18610
+Ternary QuickSort,ReverseSorted,2200,0.0553832,20154
+String MergeSort,ReverseSorted,2200,0.1016,8183
+MSD Radix Sort,ReverseSorted,2200,0.288808,0
+MSD Radix Sort + Fallback,ReverseSorted,2200,0.0538668,8149
+Std QuickSort,ReverseSorted,2300,0.01655,9821
+Std MergeSort,ReverseSorted,2300,0.0549248,23356
+Custom QuickSort,ReverseSorted,2300,0.142184,47823
+Custom MergeSort,ReverseSorted,2300,0.077175,19332
+Ternary QuickSort,ReverseSorted,2300,0.0682164,21325
+String MergeSort,ReverseSorted,2300,0.139908,8415
+MSD Radix Sort,ReverseSorted,2300,0.27775,0
+MSD Radix Sort + Fallback,ReverseSorted,2300,0.0821168,8524
+Std QuickSort,ReverseSorted,2400,0.0186582,10254
+Std MergeSort,ReverseSorted,2400,0.0604834,24787
+Custom QuickSort,ReverseSorted,2400,0.143058,50465
+Custom MergeSort,ReverseSorted,2400,0.0840336,20151
+Ternary QuickSort,ReverseSorted,2400,0.0675834,22309
+String MergeSort,ReverseSorted,2400,0.12235,8794
+MSD Radix Sort,ReverseSorted,2400,0.285609,0
+MSD Radix Sort + Fallback,ReverseSorted,2400,0.0483752,8871
+Std QuickSort,ReverseSorted,2500,0.018525,10668
+Std MergeSort,ReverseSorted,2500,0.0732834,25915
+Custom QuickSort,ReverseSorted,2500,0.180975,51974
+Custom MergeSort,ReverseSorted,2500,0.0888498,20984
+Ternary QuickSort,ReverseSorted,2500,0.0658084,23349
+String MergeSort,ReverseSorted,2500,0.125141,9127
+MSD Radix Sort,ReverseSorted,2500,0.305858,0
+MSD Radix Sort + Fallback,ReverseSorted,2500,0.0568582,9218
+Std QuickSort,ReverseSorted,2600,0.0179418,11065
+Std MergeSort,ReverseSorted,2600,0.0693498,27360
+Custom QuickSort,ReverseSorted,2600,0.136425,54714
+Custom MergeSort,ReverseSorted,2600,0.0916334,21866
+Ternary QuickSort,ReverseSorted,2600,0.0718584,24621
+String MergeSort,ReverseSorted,2600,0.118975,9451
+MSD Radix Sort,ReverseSorted,2600,0.294116,0
+MSD Radix Sort + Fallback,ReverseSorted,2600,0.04785,9597
+Std QuickSort,ReverseSorted,2700,0.0187248,11514
+Std MergeSort,ReverseSorted,2700,0.0646584,29250
+Custom QuickSort,ReverseSorted,2700,0.134567,57568
+Custom MergeSort,ReverseSorted,2700,0.0898418,22876
+Ternary QuickSort,ReverseSorted,2700,0.0657334,25622
+String MergeSort,ReverseSorted,2700,0.131983,9895
+MSD Radix Sort,ReverseSorted,2700,0.311741,0
+MSD Radix Sort + Fallback,ReverseSorted,2700,0.04855,9966
+Std QuickSort,ReverseSorted,2800,0.0201496,11942
+Std MergeSort,ReverseSorted,2800,0.0694418,30576
+Custom QuickSort,ReverseSorted,2800,0.142233,59788
+Custom MergeSort,ReverseSorted,2800,0.0888164,23643
+Ternary QuickSort,ReverseSorted,2800,0.0727004,26719
+String MergeSort,ReverseSorted,2800,0.1346,10124
+MSD Radix Sort,ReverseSorted,2800,0.336983,0
+MSD Radix Sort + Fallback,ReverseSorted,2800,0.0537918,10335
+Std QuickSort,ReverseSorted,2900,0.0205918,12353
+Std MergeSort,ReverseSorted,2900,0.074683,32328
+Custom QuickSort,ReverseSorted,2900,0.1532,62379
+Custom MergeSort,ReverseSorted,2900,0.0952082,24759
+Ternary QuickSort,ReverseSorted,2900,0.0787498,27718
+String MergeSort,ReverseSorted,2900,0.142508,10636
+MSD Radix Sort,ReverseSorted,2900,0.337967,0
+MSD Radix Sort + Fallback,ReverseSorted,2900,0.0547332,10698
+Std QuickSort,ReverseSorted,3000,0.022725,12752
+Std MergeSort,ReverseSorted,3000,0.0767748,33682
+Custom QuickSort,ReverseSorted,3000,0.156242,65049
+Custom MergeSort,ReverseSorted,3000,0.0981664,25817
+Ternary QuickSort,ReverseSorted,3000,0.0799,28934
+String MergeSort,ReverseSorted,3000,0.142575,11073
+MSD Radix Sort,ReverseSorted,3000,0.350859,0
+MSD Radix Sort + Fallback,ReverseSorted,3000,0.0561082,11070
+Std QuickSort,NearlySorted,100,0.0024418,1244
+Std MergeSort,NearlySorted,100,0.0020002,709
+Custom QuickSort,NearlySorted,100,0.0041998,1556
+Custom MergeSort,NearlySorted,100,0.0029084,777
+Ternary QuickSort,NearlySorted,100,0.0023168,584
+String MergeSort,NearlySorted,100,0.0040918,377
+MSD Radix Sort,NearlySorted,100,0.0103084,0
+MSD Radix Sort + Fallback,NearlySorted,100,0.0022252,307
+Std QuickSort,NearlySorted,200,0.0044834,2624
+Std MergeSort,NearlySorted,200,0.0038834,1459
+Custom QuickSort,NearlySorted,200,0.0086916,3764
+Custom MergeSort,NearlySorted,200,0.0054166,1726
+Ternary QuickSort,NearlySorted,200,0.0040668,1362
+String MergeSort,NearlySorted,200,0.0074252,769
+MSD Radix Sort,NearlySorted,200,0.0204586,0
+MSD Radix Sort + Fallback,NearlySorted,200,0.0039836,691
+Std QuickSort,NearlySorted,300,0.0073834,4230
+Std MergeSort,NearlySorted,300,0.0067834,2650
+Custom QuickSort,NearlySorted,300,0.0140418,6372
+Custom MergeSort,NearlySorted,300,0.009967,2873
+Ternary QuickSort,NearlySorted,300,0.0066082,2198
+String MergeSort,NearlySorted,300,0.0124832,1247
+MSD Radix Sort,NearlySorted,300,0.0306084,0
+MSD Radix Sort + Fallback,NearlySorted,300,0.0053584,1027
+Std QuickSort,NearlySorted,400,0.0107332,6108
+Std MergeSort,NearlySorted,400,0.0088748,3654
+Custom QuickSort,NearlySorted,400,0.0185004,7898
+Custom MergeSort,NearlySorted,400,0.0125166,3944
+Ternary QuickSort,NearlySorted,400,0.0082168,2810
+String MergeSort,NearlySorted,400,0.0161832,1619
+MSD Radix Sort,NearlySorted,400,0.0420082,0
+MSD Radix Sort + Fallback,NearlySorted,400,0.0066918,1342
+Std QuickSort,NearlySorted,500,0.014258,7474
+Std MergeSort,NearlySorted,500,0.0112418,4684
+Custom QuickSort,NearlySorted,500,0.023067,10106
+Custom MergeSort,NearlySorted,500,0.0167248,4968
+Ternary QuickSort,NearlySorted,500,0.010733,3694
+String MergeSort,NearlySorted,500,0.0217086,2043
+MSD Radix Sort,NearlySorted,500,0.0542168,0
+MSD Radix Sort + Fallback,NearlySorted,500,0.0085336,1701
+Std QuickSort,NearlySorted,600,0.017,9273
+Std MergeSort,NearlySorted,600,0.0137586,5767
+Custom QuickSort,NearlySorted,600,0.0318666,14547
+Custom MergeSort,NearlySorted,600,0.0206418,6376
+Ternary QuickSort,NearlySorted,600,0.0126332,4697
+String MergeSort,NearlySorted,600,0.0269834,2612
+MSD Radix Sort,NearlySorted,600,0.0695,0
+MSD Radix Sort + Fallback,NearlySorted,600,0.0112666,2014
+Std QuickSort,NearlySorted,700,0.0214002,11566
+Std MergeSort,NearlySorted,700,0.0163416,6850
+Custom QuickSort,NearlySorted,700,0.0373916,14610
+Custom MergeSort,NearlySorted,700,0.0271834,7589
+Ternary QuickSort,NearlySorted,700,0.016075,5727
+String MergeSort,NearlySorted,700,0.0327082,3074
+MSD Radix Sort,NearlySorted,700,0.0771082,0
+MSD Radix Sort + Fallback,NearlySorted,700,0.012025,2373
+Std QuickSort,NearlySorted,800,0.0241582,12806
+Std MergeSort,NearlySorted,800,0.0186082,7875
+Custom QuickSort,NearlySorted,800,0.0418418,17485
+Custom MergeSort,NearlySorted,800,0.0288168,8799
+Ternary QuickSort,NearlySorted,800,0.0187086,6545
+String MergeSort,NearlySorted,800,0.0381584,3489
+MSD Radix Sort,NearlySorted,800,0.0918002,0
+MSD Radix Sort + Fallback,NearlySorted,800,0.0134668,2716
+Std QuickSort,NearlySorted,900,0.0279166,14675
+Std MergeSort,NearlySorted,900,0.0210086,9139
+Custom QuickSort,NearlySorted,900,0.0484418,21512
+Custom MergeSort,NearlySorted,900,0.0333418,10166
+Ternary QuickSort,NearlySorted,900,0.0221834,7672
+String MergeSort,NearlySorted,900,0.0435164,4097
+MSD Radix Sort,NearlySorted,900,0.0995252,0
+MSD Radix Sort + Fallback,NearlySorted,900,0.0153748,3111
+Std QuickSort,NearlySorted,1000,0.0318002,16933
+Std MergeSort,NearlySorted,1000,0.0237,10248
+Custom QuickSort,NearlySorted,1000,0.0549334,24070
+Custom MergeSort,NearlySorted,1000,0.0375502,11328
+Ternary QuickSort,NearlySorted,1000,0.0250836,8453
+String MergeSort,NearlySorted,1000,0.0478668,4483
+MSD Radix Sort,NearlySorted,1000,0.11185,0
+MSD Radix Sort + Fallback,NearlySorted,1000,0.0171418,3483
+Std QuickSort,NearlySorted,1100,0.03565,18988
+Std MergeSort,NearlySorted,1100,0.0300166,11973
+Custom QuickSort,NearlySorted,1100,0.0607916,26268
+Custom MergeSort,NearlySorted,1100,0.0423752,12797
+Ternary QuickSort,NearlySorted,1100,0.0282834,9683
+String MergeSort,NearlySorted,1100,0.0544084,5081
+MSD Radix Sort,NearlySorted,1100,0.127058,0
+MSD Radix Sort + Fallback,NearlySorted,1100,0.0208,3859
+Std QuickSort,NearlySorted,1200,0.0402082,19816
+Std MergeSort,NearlySorted,1200,0.0357502,13520
+Custom QuickSort,NearlySorted,1200,0.07865,37098
+Custom MergeSort,NearlySorted,1200,0.0476082,14322
+Ternary QuickSort,NearlySorted,1200,0.0319332,10540
+String MergeSort,NearlySorted,1200,0.0614584,5629
+MSD Radix Sort,NearlySorted,1200,0.138925,0
+MSD Radix Sort + Fallback,NearlySorted,1200,0.0214416,4226
+Std QuickSort,NearlySorted,1300,0.042575,22114
+Std MergeSort,NearlySorted,1300,0.0383418,15001
+Custom QuickSort,NearlySorted,1300,0.0805084,33201
+Custom MergeSort,NearlySorted,1300,0.070283,15964
+Ternary QuickSort,NearlySorted,1300,0.0523666,11464
+String MergeSort,NearlySorted,1300,0.0691,6204
+MSD Radix Sort,NearlySorted,1300,0.1819,0
+MSD Radix Sort + Fallback,NearlySorted,1300,0.026475,4625
+Std QuickSort,NearlySorted,1400,0.0471748,24545
+Std MergeSort,NearlySorted,1400,0.0419168,16225
+Custom QuickSort,NearlySorted,1400,0.0869248,39263
+Custom MergeSort,NearlySorted,1400,0.0570332,17195
+Ternary QuickSort,NearlySorted,1400,0.0402752,12331
+String MergeSort,NearlySorted,1400,0.078125,6714
+MSD Radix Sort,NearlySorted,1400,0.167275,0
+MSD Radix Sort + Fallback,NearlySorted,1400,0.0256582,5001
+Std QuickSort,NearlySorted,1500,0.0515916,26960
+Std MergeSort,NearlySorted,1500,0.0437748,17780
+Custom QuickSort,NearlySorted,1500,0.0894002,37785
+Custom MergeSort,NearlySorted,1500,0.0606332,18674
+Ternary QuickSort,NearlySorted,1500,0.0446834,13409
+String MergeSort,NearlySorted,1500,0.08,7207
+MSD Radix Sort,NearlySorted,1500,0.181592,0
+MSD Radix Sort + Fallback,NearlySorted,1500,0.02835,5378
+Std QuickSort,NearlySorted,1600,0.0566084,29515
+Std MergeSort,NearlySorted,1600,0.047408,18995
+Custom QuickSort,NearlySorted,1600,0.095717,40011
+Custom MergeSort,NearlySorted,1600,0.0654664,20088
+Ternary QuickSort,NearlySorted,1600,0.0443248,14403
+String MergeSort,NearlySorted,1600,0.0846502,7725
+MSD Radix Sort,NearlySorted,1600,0.190658,0
+MSD Radix Sort + Fallback,NearlySorted,1600,0.0298752,5783
+Std QuickSort,NearlySorted,1700,0.0594166,30463
+Std MergeSort,NearlySorted,1700,0.050383,20241
+Custom QuickSort,NearlySorted,1700,0.10965,47897
+Custom MergeSort,NearlySorted,1700,0.0709498,21608
+Ternary QuickSort,NearlySorted,1700,0.0495248,15290
+String MergeSort,NearlySorted,1700,0.0923166,8378
+MSD Radix Sort,NearlySorted,1700,0.22985,0
+MSD Radix Sort + Fallback,NearlySorted,1700,0.0354668,6190
+Std QuickSort,NearlySorted,1800,0.064025,32191
+Std MergeSort,NearlySorted,1800,0.0547916,21688
+Custom QuickSort,NearlySorted,1800,0.109233,46427
+Custom MergeSort,NearlySorted,1800,0.0768836,23002
+Ternary QuickSort,NearlySorted,1800,0.0553748,17690
+String MergeSort,NearlySorted,1800,0.1041,8957
+MSD Radix Sort,NearlySorted,1800,0.230925,0
+MSD Radix Sort + Fallback,NearlySorted,1800,0.0452416,6590
+Std QuickSort,NearlySorted,1900,0.0700666,34998
+Std MergeSort,NearlySorted,1900,0.0605836,22987
+Custom QuickSort,NearlySorted,1900,0.18695,51242
+Custom MergeSort,NearlySorted,1900,0.0811582,24245
+Ternary QuickSort,NearlySorted,1900,0.0542168,17445
+String MergeSort,NearlySorted,1900,0.109892,9375
+MSD Radix Sort,NearlySorted,1900,0.229191,0
+MSD Radix Sort + Fallback,NearlySorted,1900,0.0428582,6977
+Std QuickSort,NearlySorted,2000,0.0761084,37041
+Std MergeSort,NearlySorted,2000,0.0636748,24484
+Custom QuickSort,NearlySorted,2000,0.1449,53123
+Custom MergeSort,NearlySorted,2000,0.0926664,25483
+Ternary QuickSort,NearlySorted,2000,0.0606834,18599
+String MergeSort,NearlySorted,2000,0.114233,9801
+MSD Radix Sort,NearlySorted,2000,0.235859,0
+MSD Radix Sort + Fallback,NearlySorted,2000,0.0436336,7381
+Std QuickSort,NearlySorted,2100,0.0797252,38117
+Std MergeSort,NearlySorted,2100,0.06495,25772
+Custom QuickSort,NearlySorted,2100,0.130117,56171
+Custom MergeSort,NearlySorted,2100,0.0898498,27114
+Ternary QuickSort,NearlySorted,2100,0.0658666,20419
+String MergeSort,NearlySorted,2100,0.115975,10370
+MSD Radix Sort,NearlySorted,2100,0.253133,0
+MSD Radix Sort + Fallback,NearlySorted,2100,0.0422168,7778
+Std QuickSort,NearlySorted,2200,0.0835836,41411
+Std MergeSort,NearlySorted,2200,0.0697418,26985
+Custom QuickSort,NearlySorted,2200,0.149242,64479
+Custom MergeSort,NearlySorted,2200,0.095517,28685
+Ternary QuickSort,NearlySorted,2200,0.0657252,20370
+String MergeSort,NearlySorted,2200,0.123775,11060
+MSD Radix Sort,NearlySorted,2200,0.262741,0
+MSD Radix Sort + Fallback,NearlySorted,2200,0.0441334,8215
+Std QuickSort,NearlySorted,2300,0.0869752,43161
+Std MergeSort,NearlySorted,2300,0.0697584,28540
+Custom QuickSort,NearlySorted,2300,0.147917,59414
+Custom MergeSort,NearlySorted,2300,0.101942,30626
+Ternary QuickSort,NearlySorted,2300,0.0698746,21280
+String MergeSort,NearlySorted,2300,0.1327,11692
+MSD Radix Sort,NearlySorted,2300,0.277475,0
+MSD Radix Sort + Fallback,NearlySorted,2300,0.0468082,8641
+Std QuickSort,NearlySorted,2400,0.0948248,46108
+Std MergeSort,NearlySorted,2400,0.0728252,29543
+Custom QuickSort,NearlySorted,2400,0.156466,65663
+Custom MergeSort,NearlySorted,2400,0.107192,32022
+Ternary QuickSort,NearlySorted,2400,0.0740082,22619
+String MergeSort,NearlySorted,2400,0.137717,12301
+MSD Radix Sort,NearlySorted,2400,0.292241,0
+MSD Radix Sort + Fallback,NearlySorted,2400,0.0500666,9073
+Std QuickSort,NearlySorted,2500,0.0940498,46361
+Std MergeSort,NearlySorted,2500,0.0766666,31061
+Custom QuickSort,NearlySorted,2500,0.1631,64772
+Custom MergeSort,NearlySorted,2500,0.112292,33617
+Ternary QuickSort,NearlySorted,2500,0.0763748,23654
+String MergeSort,NearlySorted,2500,0.146375,12867
+MSD Radix Sort,NearlySorted,2500,0.3004,0
+MSD Radix Sort + Fallback,NearlySorted,2500,0.0519082,9528
+Std QuickSort,NearlySorted,2600,0.0987166,49045
+Std MergeSort,NearlySorted,2600,0.0781504,32635
+Custom QuickSort,NearlySorted,2600,0.168042,68252
+Custom MergeSort,NearlySorted,2600,0.117075,35423
+Ternary QuickSort,NearlySorted,2600,0.0792252,24375
+String MergeSort,NearlySorted,2600,0.151225,13692
+MSD Radix Sort,NearlySorted,2600,0.312725,0
+MSD Radix Sort + Fallback,NearlySorted,2600,0.0544832,9969
+Std QuickSort,NearlySorted,2700,0.0974,48422
+Std MergeSort,NearlySorted,2700,0.0810084,33675
+Custom QuickSort,NearlySorted,2700,0.169442,67546
+Custom MergeSort,NearlySorted,2700,0.127242,36993
+Ternary QuickSort,NearlySorted,2700,0.0844332,26278
+String MergeSort,NearlySorted,2700,0.157517,14324
+MSD Radix Sort,NearlySorted,2700,0.324933,0
+MSD Radix Sort + Fallback,NearlySorted,2700,0.0562418,10368
+Std QuickSort,NearlySorted,2800,0.1043,52260
+Std MergeSort,NearlySorted,2800,0.0848334,34938
+Custom QuickSort,NearlySorted,2800,0.169958,65178
+Custom MergeSort,NearlySorted,2800,0.128292,38206
+Ternary QuickSort,NearlySorted,2800,0.0887332,27301
+String MergeSort,NearlySorted,2800,0.166667,14798
+MSD Radix Sort,NearlySorted,2800,0.339708,0
+MSD Radix Sort + Fallback,NearlySorted,2800,0.0613,10851
+Std QuickSort,NearlySorted,2900,0.121775,59699
+Std MergeSort,NearlySorted,2900,0.0899084,36437
+Custom QuickSort,NearlySorted,2900,0.173383,63484
+Custom MergeSort,NearlySorted,2900,0.1336,39774
+Ternary QuickSort,NearlySorted,2900,0.0927834,28087
+String MergeSort,NearlySorted,2900,0.173834,15351
+MSD Radix Sort,NearlySorted,2900,0.354208,0
+MSD Radix Sort + Fallback,NearlySorted,2900,0.0620666,11231
+Std QuickSort,NearlySorted,3000,0.0684416,35941
+Std MergeSort,NearlySorted,3000,0.0911334,37622
+Custom QuickSort,NearlySorted,3000,0.1822,68505
+Custom MergeSort,NearlySorted,3000,0.138625,41058
+Ternary QuickSort,NearlySorted,3000,0.0986418,30288
+String MergeSort,NearlySorted,3000,0.177883,16028
+MSD Radix Sort,NearlySorted,3000,0.367884,0
+MSD Radix Sort + Fallback,NearlySorted,3000,0.0641998,11672
+Std QuickSort,SharedPrefix,100,0.0234416,42642
+Std MergeSort,SharedPrefix,100,0.0183498,27596
+Custom QuickSort,SharedPrefix,100,0.0282084,62104
+Custom MergeSort,SharedPrefix,100,0.0177584,26984
+Ternary QuickSort,SharedPrefix,100,0.0100504,5639
+String MergeSort,SharedPrefix,100,0.0109586,5449
+MSD Radix Sort,SharedPrefix,100,0.063275,0
+MSD Radix Sort + Fallback,SharedPrefix,100,0.0501334,55
+Std QuickSort,SharedPrefix,200,0.05095,90298
+Std MergeSort,SharedPrefix,200,0.0413336,67646
+Custom QuickSort,SharedPrefix,200,0.055,121412
+Custom MergeSort,SharedPrefix,200,0.041675,64842
+Ternary QuickSort,SharedPrefix,200,0.0211834,11366
+String MergeSort,SharedPrefix,200,0.0217334,11106
+MSD Radix Sort,SharedPrefix,200,0.100767,0
+MSD Radix Sort + Fallback,SharedPrefix,200,0.0736082,222
+Std QuickSort,SharedPrefix,300,0.0827416,144153
+Std MergeSort,SharedPrefix,300,0.0673164,106964
+Custom QuickSort,SharedPrefix,300,0.104733,238434
+Custom MergeSort,SharedPrefix,300,0.0691834,106709
+Ternary QuickSort,SharedPrefix,300,0.0366832,17422
+String MergeSort,SharedPrefix,300,0.0344918,16845
+MSD Radix Sort,SharedPrefix,300,0.135217,0
+MSD Radix Sort + Fallback,SharedPrefix,300,0.098375,435
+Std QuickSort,SharedPrefix,400,0.121833,213268
+Std MergeSort,SharedPrefix,400,0.0960336,151171
+Custom QuickSort,SharedPrefix,400,0.138392,307354
+Custom MergeSort,SharedPrefix,400,0.0976916,150968
+Ternary QuickSort,SharedPrefix,400,0.0392752,23341
+String MergeSort,SharedPrefix,400,0.04655,22598
+MSD Radix Sort,SharedPrefix,400,0.1626,0
+MSD Radix Sort + Fallback,SharedPrefix,400,0.123659,696
+Std QuickSort,SharedPrefix,500,0.161009,262041
+Std MergeSort,SharedPrefix,500,0.12745,197689
+Custom QuickSort,SharedPrefix,500,0.165175,358322
+Custom MergeSort,SharedPrefix,500,0.1282,196317
+Ternary QuickSort,SharedPrefix,500,0.0489752,29163
+String MergeSort,SharedPrefix,500,0.0597084,28409
+MSD Radix Sort,SharedPrefix,500,0.191642,0
+MSD Radix Sort + Fallback,SharedPrefix,500,0.155208,925
+Std QuickSort,SharedPrefix,600,0.189725,327004
+Std MergeSort,SharedPrefix,600,0.154142,248800
+Custom QuickSort,SharedPrefix,600,0.225725,509360
+Custom MergeSort,SharedPrefix,600,0.15865,244920
+Ternary QuickSort,SharedPrefix,600,0.0591082,35805
+String MergeSort,SharedPrefix,600,0.071825,34235
+MSD Radix Sort,SharedPrefix,600,0.21975,0
+MSD Radix Sort + Fallback,SharedPrefix,600,0.1738,1256
+Std QuickSort,SharedPrefix,700,0.2294,383538
+Std MergeSort,SharedPrefix,700,0.18505,300610
+Custom QuickSort,SharedPrefix,700,0.262433,588792
+Custom MergeSort,SharedPrefix,700,0.19155,295259
+Ternary QuickSort,SharedPrefix,700,0.0700584,41443
+String MergeSort,SharedPrefix,700,0.0880752,40110
+MSD Radix Sort,SharedPrefix,700,0.250692,0
+MSD Radix Sort + Fallback,SharedPrefix,700,0.206658,1633
+Std QuickSort,SharedPrefix,800,0.267008,447793
+Std MergeSort,SharedPrefix,800,0.218267,354444
+Custom QuickSort,SharedPrefix,800,0.300367,669311
+Custom MergeSort,SharedPrefix,800,0.226592,344705
+Ternary QuickSort,SharedPrefix,800,0.078975,47082
+String MergeSort,SharedPrefix,800,0.0992584,45983
+MSD Radix Sort,SharedPrefix,800,0.283709,0
+MSD Radix Sort + Fallback,SharedPrefix,800,0.229158,2091
+Std QuickSort,SharedPrefix,900,0.30265,516694
+Std MergeSort,SharedPrefix,900,0.252492,408203
+Custom QuickSort,SharedPrefix,900,0.347108,768047
+Custom MergeSort,SharedPrefix,900,0.257225,393618
+Ternary QuickSort,SharedPrefix,900,0.0915334,54448
+String MergeSort,SharedPrefix,900,0.114033,51887
+MSD Radix Sort,SharedPrefix,900,0.319542,0
+MSD Radix Sort + Fallback,SharedPrefix,900,0.2557,2416
+Std QuickSort,SharedPrefix,1000,0.337058,576298
+Std MergeSort,SharedPrefix,1000,0.286475,469043
+Custom QuickSort,SharedPrefix,1000,0.383783,837137
+Custom MergeSort,SharedPrefix,1000,0.282708,446252
+Ternary QuickSort,SharedPrefix,1000,0.101634,59644
+String MergeSort,SharedPrefix,1000,0.128425,57781
+MSD Radix Sort,SharedPrefix,1000,0.356942,0
+MSD Radix Sort + Fallback,SharedPrefix,1000,0.260733,2858
+Std QuickSort,SharedPrefix,1100,0.401267,666493
+Std MergeSort,SharedPrefix,1100,0.325208,509778
+Custom QuickSort,SharedPrefix,1100,0.440384,1007356
+Custom MergeSort,SharedPrefix,1100,0.31875,499836
+Ternary QuickSort,SharedPrefix,1100,0.107584,65749
+String MergeSort,SharedPrefix,1100,0.139233,63729
+MSD Radix Sort,SharedPrefix,1100,0.379008,0
+MSD Radix Sort + Fallback,SharedPrefix,1100,0.295083,3281
+Std QuickSort,SharedPrefix,1200,0.411625,713237
+Std MergeSort,SharedPrefix,1200,0.341283,554060
+Custom QuickSort,SharedPrefix,1200,0.418808,919357
+Custom MergeSort,SharedPrefix,1200,0.350442,553600
+Ternary QuickSort,SharedPrefix,1200,0.120166,71644
+String MergeSort,SharedPrefix,1200,0.152625,69653
+MSD Radix Sort,SharedPrefix,1200,0.416417,0
+MSD Radix Sort + Fallback,SharedPrefix,1200,0.3325,3770
+Std QuickSort,SharedPrefix,1300,0.446934,787710
+Std MergeSort,SharedPrefix,1300,0.373384,608255
+Custom QuickSort,SharedPrefix,1300,0.562316,1298647
+Custom MergeSort,SharedPrefix,1300,0.384733,607028
+Ternary QuickSort,SharedPrefix,1300,0.1345,81077
+String MergeSort,SharedPrefix,1300,0.169292,75624
+MSD Radix Sort,SharedPrefix,1300,0.455017,0
+MSD Radix Sort + Fallback,SharedPrefix,1300,0.360417,4233
+Std QuickSort,SharedPrefix,1400,0.50115,864206
+Std MergeSort,SharedPrefix,1400,0.408892,663086
+Custom QuickSort,SharedPrefix,1400,0.631742,1455282
+Custom MergeSort,SharedPrefix,1400,0.42135,662940
+Ternary QuickSort,SharedPrefix,1400,0.147066,83789
+String MergeSort,SharedPrefix,1400,0.183567,81604
+MSD Radix Sort,SharedPrefix,1400,0.489491,0
+MSD Radix Sort + Fallback,SharedPrefix,1400,0.390341,4747
+Std QuickSort,SharedPrefix,1500,0.535658,931030
+Std MergeSort,SharedPrefix,1500,0.442133,717985
+Custom QuickSort,SharedPrefix,1500,0.541283,1196138
+Custom MergeSort,SharedPrefix,1500,0.456166,719266
+Ternary QuickSort,SharedPrefix,1500,0.153017,89761
+String MergeSort,SharedPrefix,1500,0.195033,87590
+MSD Radix Sort,SharedPrefix,1500,0.541825,0
+MSD Radix Sort + Fallback,SharedPrefix,1500,0.42885,5328
+Std QuickSort,SharedPrefix,1600,0.577959,1009679
+Std MergeSort,SharedPrefix,1600,0.47535,772555
+Custom QuickSort,SharedPrefix,1600,0.625967,1406898
+Custom MergeSort,SharedPrefix,1600,0.491433,772660
+Ternary QuickSort,SharedPrefix,1600,0.16515,97017
+String MergeSort,SharedPrefix,1600,0.215267,93525
+MSD Radix Sort,SharedPrefix,1600,0.575925,0
+MSD Radix Sort + Fallback,SharedPrefix,1600,0.457167,5738
+Std QuickSort,SharedPrefix,1700,0.622042,1097661
+Std MergeSort,SharedPrefix,1700,0.51135,832787
+Custom QuickSort,SharedPrefix,1700,0.761108,1752083
+Custom MergeSort,SharedPrefix,1700,0.52835,830448
+Ternary QuickSort,SharedPrefix,1700,0.184517,103227
+String MergeSort,SharedPrefix,1700,0.229483,99602
+MSD Radix Sort,SharedPrefix,1700,0.640608,0
+MSD Radix Sort + Fallback,SharedPrefix,1700,0.483317,6351
+Std QuickSort,SharedPrefix,1800,0.6426,1120731
+Std MergeSort,SharedPrefix,1800,0.553925,888347
+Custom QuickSort,SharedPrefix,1800,0.724392,1629252
+Custom MergeSort,SharedPrefix,1800,0.572625,883403
+Ternary QuickSort,SharedPrefix,1800,0.191442,110400
+String MergeSort,SharedPrefix,1800,0.24255,105475
+MSD Radix Sort,SharedPrefix,1800,0.656625,0
+MSD Radix Sort + Fallback,SharedPrefix,1800,0.512541,6856
+Std QuickSort,SharedPrefix,1900,0.702433,1220563
+Std MergeSort,SharedPrefix,1900,0.592908,945625
+Custom QuickSort,SharedPrefix,1900,0.776317,1676890
+Custom MergeSort,SharedPrefix,1900,0.616058,940426
+Ternary QuickSort,SharedPrefix,1900,0.1936,114828
+String MergeSort,SharedPrefix,1900,0.257008,111496
+MSD Radix Sort,SharedPrefix,1900,0.683175,0
+MSD Radix Sort + Fallback,SharedPrefix,1900,0.536517,7276
+Std QuickSort,SharedPrefix,2000,0.744225,1301083
+Std MergeSort,SharedPrefix,2000,0.623433,1002972
+Custom QuickSort,SharedPrefix,2000,0.839183,1885452
+Custom MergeSort,SharedPrefix,2000,0.649816,996806
+Ternary QuickSort,SharedPrefix,2000,0.214425,121359
+String MergeSort,SharedPrefix,2000,0.273167,117416
+MSD Radix Sort,SharedPrefix,2000,0.7386,0
+MSD Radix Sort + Fallback,SharedPrefix,2000,0.551583,7792
+Std QuickSort,SharedPrefix,2100,0.794567,1356621
+Std MergeSort,SharedPrefix,2100,0.653967,1063962
+Custom QuickSort,SharedPrefix,2100,0.935125,2100517
+Custom MergeSort,SharedPrefix,2100,0.673067,1056326
+Ternary QuickSort,SharedPrefix,2100,0.218392,127394
+String MergeSort,SharedPrefix,2100,0.283042,123572
+MSD Radix Sort,SharedPrefix,2100,0.760225,0
+MSD Radix Sort + Fallback,SharedPrefix,2100,0.570958,8450
+Std QuickSort,SharedPrefix,2200,0.839708,1427659
+Std MergeSort,SharedPrefix,2200,0.684367,1122893
+Custom QuickSort,SharedPrefix,2200,0.91705,2051726
+Custom MergeSort,SharedPrefix,2200,0.713433,1114221
+Ternary QuickSort,SharedPrefix,2200,0.237733,133955
+String MergeSort,SharedPrefix,2200,0.300625,129543
+MSD Radix Sort,SharedPrefix,2200,0.801517,0
+MSD Radix Sort + Fallback,SharedPrefix,2200,0.630192,9167
+Std QuickSort,SharedPrefix,2300,0.85815,1484049
+Std MergeSort,SharedPrefix,2300,0.746758,1183583
+Custom QuickSort,SharedPrefix,2300,0.91515,2033588
+Custom MergeSort,SharedPrefix,2300,0.753167,1172813
+Ternary QuickSort,SharedPrefix,2300,0.251267,138652
+String MergeSort,SharedPrefix,2300,0.310942,135507
+MSD Radix Sort,SharedPrefix,2300,0.858942,0
+MSD Radix Sort + Fallback,SharedPrefix,2300,0.6221,9601
+Std QuickSort,SharedPrefix,2400,0.922208,1565678
+Std MergeSort,SharedPrefix,2400,0.758992,1246513
+Custom QuickSort,SharedPrefix,2400,1.03091,2282245
+Custom MergeSort,SharedPrefix,2400,0.792942,1233355
+Ternary QuickSort,SharedPrefix,2400,0.259483,146993
+String MergeSort,SharedPrefix,2400,0.334625,141580
+MSD Radix Sort,SharedPrefix,2400,0.907875,0
+MSD Radix Sort + Fallback,SharedPrefix,2400,0.692217,10310
+Std QuickSort,SharedPrefix,2500,0.996542,1718592
+Std MergeSort,SharedPrefix,2500,0.825392,1307164
+Custom QuickSort,SharedPrefix,2500,1.09078,2372477
+Custom MergeSort,SharedPrefix,2500,0.821417,1290219
+Ternary QuickSort,SharedPrefix,2500,0.268359,154390
+String MergeSort,SharedPrefix,2500,0.361358,147574
+MSD Radix Sort,SharedPrefix,2500,0.986942,0
+MSD Radix Sort + Fallback,SharedPrefix,2500,0.763142,10967
+Std QuickSort,SharedPrefix,2600,1.05992,1715967
+Std MergeSort,SharedPrefix,2600,0.836775,1366857
+Custom QuickSort,SharedPrefix,2600,1.17281,2555574
+Custom MergeSort,SharedPrefix,2600,0.852483,1349207
+Ternary QuickSort,SharedPrefix,2600,0.2649,160515
+String MergeSort,SharedPrefix,2600,0.350866,153646
+MSD Radix Sort,SharedPrefix,2600,0.99345,0
+MSD Radix Sort + Fallback,SharedPrefix,2600,0.6935,11553
+Std QuickSort,SharedPrefix,2700,1.06012,1802486
+Std MergeSort,SharedPrefix,2700,0.890341,1430629
+Custom QuickSort,SharedPrefix,2700,1.25119,2668881
+Custom MergeSort,SharedPrefix,2700,0.931558,1410953
+Ternary QuickSort,SharedPrefix,2700,0.307917,165658
+String MergeSort,SharedPrefix,2700,0.431658,159720
+MSD Radix Sort,SharedPrefix,2700,1.03809,0
+MSD Radix Sort + Fallback,SharedPrefix,2700,0.783,12039
+Std QuickSort,SharedPrefix,2800,1.1263,1894886
+Std MergeSort,SharedPrefix,2800,0.9418,1492434
+Custom QuickSort,SharedPrefix,2800,1.25956,2747467
+Custom MergeSort,SharedPrefix,2800,0.9778,1472087
+Ternary QuickSort,SharedPrefix,2800,0.3465,171922
+String MergeSort,SharedPrefix,2800,0.418042,165765
+MSD Radix Sort,SharedPrefix,2800,1.08268,0
+MSD Radix Sort + Fallback,SharedPrefix,2800,0.833258,12769
+Std QuickSort,SharedPrefix,2900,1.13884,1929638
+Std MergeSort,SharedPrefix,2900,0.968225,1555740
+Custom QuickSort,SharedPrefix,2900,1.38347,3096590
+Custom MergeSort,SharedPrefix,2900,0.99505,1529007
+Ternary QuickSort,SharedPrefix,2900,0.324666,180486
+String MergeSort,SharedPrefix,2900,0.432692,171712
+MSD Radix Sort,SharedPrefix,2900,1.11968,0
+MSD Radix Sort + Fallback,SharedPrefix,2900,0.886642,13344
+Std QuickSort,SharedPrefix,3000,1.20733,2009387
+Std MergeSort,SharedPrefix,3000,1.00126,1622527
+Custom QuickSort,SharedPrefix,3000,1.27421,2790591
+Custom MergeSort,SharedPrefix,3000,1.03227,1593314
+Ternary QuickSort,SharedPrefix,3000,0.334417,184174
+String MergeSort,SharedPrefix,3000,0.433025,177843
+MSD Radix Sort,SharedPrefix,3000,1.16142,0
+MSD Radix Sort + Fallback,SharedPrefix,3000,0.881091,14043
